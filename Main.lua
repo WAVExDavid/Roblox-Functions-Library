@@ -28,8 +28,8 @@ local osdate = os.date
 loadstring(game:HttpGet("https://github.com/WAVExDavid/Roblox-Functions-Library/blob/main/Library.lua"))()
 
 local GUI = loadstring(game:HttpGet("https://github.com/WAVExDavid/Roblox-Functions-Library/blob/main/ui%2020Library.lua"))()
-local ESP = loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Exunys-ESP/main/src/ESP.lua"))()
-local Aimbot = loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Aimbot-V3/main/src/Aimbot.lua"))()
+local ESP = loadstring(game:HttpGet("https://raw.githubusercontent.com/WAVExDavid/Roblox-Functions-Library/refs/heads/main/ESP.lua"))()
+local Aimbot = loadstring(game:HttpGet("https://raw.githubusercontent.com/WAVExDavid/Roblox-Functions-Library/refs/heads/main/Aimbot.lua"))()
 
 --// Variables
 
